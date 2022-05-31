@@ -27,6 +27,7 @@ Invalid input params
 ```
 
 ** The first parameter must be -l. Sending -L -2, -j won't work.
+
 ** The second parameter has to be a number greater than 1.
 1, 0, ten, hello,... aren't valid values.
 
