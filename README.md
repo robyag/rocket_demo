@@ -3,13 +3,13 @@ C++ program wich draw a rocket with a size taken from the input.
 
 
 # Compile Steps
-To compilate the program, you have to download this code, go into the main folder, and execute:
+To compile the program, you have to download this code, go into the main folder, and execute:
 ```
 cmake . && make
 ```
 
-This will create the executable file calles "rocket".
-Execute it with:
+This will create the executable file, called "rocket".
+Examples to run it:
 ```
 ./rocket -l 5
 ./rocket -l 10
@@ -26,7 +26,7 @@ Invalid input params
 ./rocket    -l   (number > 1)    [-i]
 ```
 
-** The first parameter must be -l. Sending -L -2, -j won't work.
+** The first parameter must be -l. Sending -L, -2, -j,... won't work.
 
 ** The second parameter has to be a number greater than 1.
 1, 0, ten, hello,... aren't valid values.
