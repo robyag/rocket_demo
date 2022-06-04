@@ -4,6 +4,7 @@
 
 using namespace std;
 
+int inputRows;
 
 /*
  * Calculate how many times we have to draw a space depending of the rowNumber

@@ -1,5 +1,4 @@
 
-int inputRows;
 
 void calculateSpacesToDraw(int rowNumber);
 

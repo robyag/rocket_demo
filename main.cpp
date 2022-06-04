@@ -1,10 +1,10 @@
 #include <iostream>
-#include <math.h>
 #include <string.h>
 #include "logic/DrawLogic.h"
 #include "utils/InputRows.h"
 
 using namespace std;
+
 /*
  * Root method. Checks the input params by user and calls to one of the two main functions:
     drawNormalRocket or drawInvertedRocket.
