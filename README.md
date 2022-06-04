@@ -33,6 +33,3 @@ Invalid input params
 
 * I assume that the -i parameter is optional (not like the first two), so if the user sends something other than -i, the rocket will be drawn with its normal orientation, but won't return an error message.
 
-# Tasks To Do
-All source code is in the rocket_c.cpp file. 
-Structuring the project into different classes is a pending task and will be developed in the coming days.
